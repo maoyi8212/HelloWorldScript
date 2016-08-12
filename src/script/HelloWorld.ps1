@@ -1,2 +1,2 @@
-$strString = "Hello Hallstatt"
+$strString = "Hello Beijing"
 $strString | Out-File helloworld.txt
